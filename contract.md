@@ -40,11 +40,11 @@ Customer desires to retain Developer as an independent contractor to develop the
 **Signatures** This agreement must be signed and copied to both parties.
 
 
-<hr style="background: #ddd; height: 1px" />
-       Customer signature                                      printed name                                                  date
+__________________________________________________________________________
+*Customer signature, printed name & date*
 
 __________________________________________________________________________
-       Developer signature                                      printed name                                                  date
+*Developer signature, printed name & date*
 
 
 
