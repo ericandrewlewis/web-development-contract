@@ -1,10 +1,10 @@
-SOFTWARE DEVELOPMENT AGREEMENT
+# SOFTWARE DEVELOPMENT AGREEMENT
 
 Identification of the Parties: This Agreement is made between [CUSTOMER NAME] (the "Customer") and [DEVELOPER NAME] (the "Developer").
 
 Customer desires to retain Developer as an independent contractor to develop the software (the "Software") described in the Development Plan attached to and made part of this Agreement. Developer is ready, willing and able to undertake the development of the Software and agrees to do so under the terms and conditions set forth in this Agreement. Accordingly, the parties agree to the terms that follow. 
 
-TERMS
+## TERMS
 
   1. Preparation of Development Plan Developer shall prepare a development plan ("Development Plan") for the Software. The Development Plan shall include:
 	(a) detailed specifications for the Software;
